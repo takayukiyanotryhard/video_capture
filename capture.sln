@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "capture", "capture\capture.csproj", "{12CA2420-6B42-4218-9CF6-DD18E2F3F85F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12CA2420-6B42-4218-9CF6-DD18E2F3F85F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12CA2420-6B42-4218-9CF6-DD18E2F3F85F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12CA2420-6B42-4218-9CF6-DD18E2F3F85F}.Debug|x64.ActiveCfg = Debug|x64
+		{12CA2420-6B42-4218-9CF6-DD18E2F3F85F}.Debug|x64.Build.0 = Debug|x64
+		{12CA2420-6B42-4218-9CF6-DD18E2F3F85F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12CA2420-6B42-4218-9CF6-DD18E2F3F85F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12CA2420-6B42-4218-9CF6-DD18E2F3F85F}.Release|x64.ActiveCfg = Release|Any CPU
+		{12CA2420-6B42-4218-9CF6-DD18E2F3F85F}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8605C0AA-3A52-434C-9465-B5ACC70ACA67}
+	EndGlobalSection
+EndGlobal
